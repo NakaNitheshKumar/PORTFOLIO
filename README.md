@@ -3,11 +3,10 @@
       nakanithesh8@gmail.com      	                        linkedin.com/in/naka-nithesh-kumar-p-0770992ba
       
     SUMMARY
-    Motivated Mechanical Engineering student passionate about mechanical design and full stack development,
-    with proficiency in Python. Seeking opportunities to apply technical and problem-solving skills to 
-    real-world engineering challenges while continuously enhancing expertise in technology
+    Motivated Mechanical Engineering student passionate about mechanical design and full stack development, with proficiency in Python. 
+    Seeking opportunities to apply technical and problem-solving skills to real-world engineering challenges while continuously enhancing
+    expertise in technology
 
- 
     EDUCATION
     PSNA College of Engineering and Technology	                                             2023-2027
     B.E. Mechanical Engineering  CGPA – 8.1                                            Dindigul, Tamil Nadu      
