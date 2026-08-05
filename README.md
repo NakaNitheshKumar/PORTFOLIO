@@ -20,20 +20,19 @@
     Hindustan Unilever Limited (HUL)    Pondicherry HPC Factory                                        27 June 2026 - 3 July 2026 
     Observed manufacturing processes, quality assurance, production operations, and industrial safety practices. 
     Participated in technical sessions & plant visits to understand SOPs,factory workflows & process optimization.
-    Strengthened leadership, communication, teamwork, and problem-solving skills through collaboration with 
-    industry professionals
+    Strengthened leadership, communication, teamwork, and problem-solving skills through collaboration with industry professionals
 
      
     PROJECTS
     
     Python Full Stack | Python, Django, HTML, CSS, JavaScript, Bootstrap, and MySQL
-    Completed Python Full Stack Development training using the Django framework. Developed a College ERP 
-    Management System with authentication and CRUD operations. Implemented modules for student records, 
-    attendance, timetable, faculty, and results management.
+    Completed Python Full Stack Development training using the Django framework. Developed a College ERP Management System 
+    with authentication and CRUD operations. Implemented modules for student records,attendance, timetable, faculty, and 
+    results management.
     
     Mini Project | Designed and fabricated a vacuum-based grain sucker for grain handling.
-    Implemented suction mechanism to reduce manual effort and grain wastage. Performed fabrication, assembly, 
-    and testing of the system. Focused on efficient, portable, and low-cost design.
+    Implemented suction mechanism to reduce manual effort and grain wastage. Performed fabrication, assembly, and testing of
+    the system. Focused on efficient, portable, and low-cost design.
 
      
     TECHNICAL SKILLS
