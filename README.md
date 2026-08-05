@@ -3,21 +3,21 @@
       nakanithesh8@gmail.com      	                        linkedin.com/in/naka-nithesh-kumar-p-0770992ba
       
     SUMMARY
-    Motivated Mechanical Engineering student passionate about mechanical design and full stack development, with proficiency in Python. 
-    Seeking opportunities to apply technical and problem-solving skills to real-world engineering challenges while continuously enhancing
-    expertise in technology
+    Motivated Mechanical Engineering student passionate about mechanical design and full stack development, with proficiency in 
+    Python. Seeking opportunities to apply technical and problem-solving skills to real-world engineering challenges while 
+    continuously enhancing expertise in technology
 
     EDUCATION
-    PSNA College of Engineering and Technology	                                             2023-2027
-    B.E. Mechanical Engineering  CGPA – 8.1                                            Dindigul, Tamil Nadu      
+    PSNA College of Engineering and Technology	                                                              2023-2027
+    B.E. Mechanical Engineering  CGPA – 8.1                                                              Dindigul, Tamil Nadu      
     
-    Ramsun’s Matriculation and Higher Secondary School          	                           2023-2027
-    HSC |   SSLC                                                                       Dindigul, Tamil Nadu                       
+    Ramsun’s Matriculation and Higher Secondary School          	                                           2023-2027
+    HSC |   SSLC                                                                                        Dindigul, Tamil Nadu                       
 
  
     INTERNSHIP
     
-    Hindustan Unilever Limited (HUL)    Pondicherry HPC Factory                     27 June 2026 - 3 July 2026 
+    Hindustan Unilever Limited (HUL)    Pondicherry HPC Factory                                        27 June 2026 - 3 July 2026 
     Observed manufacturing processes, quality assurance, production operations, and industrial safety practices. 
     Participated in technical sessions & plant visits to understand SOPs,factory workflows & process optimization.
     Strengthened leadership, communication, teamwork, and problem-solving skills through collaboration with 
