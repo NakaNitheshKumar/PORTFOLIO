@@ -1,4 +1,4 @@
-                                        NAKA NITHESH KUMAR P
+                                       NAKA NITHESH KUMAR P
                                         SOFTWARE ENGINEER                   
       nakanithesh8@gmail.com      	                        linkedin.com/in/naka-nithesh-kumar-p-0770992ba
       
@@ -6,6 +6,7 @@
     Motivated Mechanical Engineering student passionate about mechanical design and full stack development,
     with proficiency in Python. Seeking opportunities to apply technical and problem-solving skills to 
     real-world engineering challenges while continuously enhancing expertise in technology
+
  
     EDUCATION
     PSNA College of Engineering and Technology	                                             2023-2027
@@ -13,6 +14,7 @@
     
     Ramsun’s Matriculation and Higher Secondary School          	                           2023-2027
     HSC |   SSLC                                                                       Dindigul, Tamil Nadu                       
+
  
     INTERNSHIP
     
@@ -21,6 +23,7 @@
     Participated in technical sessions & plant visits to understand SOPs,factory workflows & process optimization.
     Strengthened leadership, communication, teamwork, and problem-solving skills through collaboration with 
     industry professionals
+
      
     PROJECTS
     
@@ -32,6 +35,7 @@
     Mini Project | Designed and fabricated a vacuum-based grain sucker for grain handling.
     Implemented suction mechanism to reduce manual effort and grain wastage. Performed fabrication, assembly, 
     and testing of the system. Focused on efficient, portable, and low-cost design.
+
      
     TECHNICAL SKILLS
     
@@ -40,6 +44,7 @@
     Database: SQL, MongoDB
     3D Software: AutoCAD, CATIA, Fusion 360.
     Areas of Interest :Full-Stack Development, Web Development
+
       
     CERTIFICATES
     
